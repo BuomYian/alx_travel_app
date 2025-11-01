@@ -1,0 +1,11 @@
+Django==4.2.7
+djangorestframework==3.14.0
+django-cors-headers==4.3.1
+python-decouple==3.8
+PyMySQL==1.1.0
+# mysqlclient removed due to build issues on Windows
+# If needed, install Microsoft Visual C++ Build Tools first
+djangorestframework-simplejwt==5.5.1
+drf-yasg==1.21.7
+Pillow==10.1.0
+django-filter==23.5
